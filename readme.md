@@ -93,9 +93,14 @@ Below two examples from the twenty newsgroup where the content does not match th
 
 <img src="doc/imgs/twenty_news/med_0.png" width="40%" height="40%"  />
 
+#### Quantitative Evaluation Results
+Table 3 from the Paper:
+
+<img src="doc/imgs/table3.png" width="40%" height="40%"  />
 
 ## Copyright
 GPLv2, see the files `LICENSE` and `GPLv2`.
 
 ## Bugs and Contribution
 Please let us know if you find bugs and/or would like to contribute.
+
