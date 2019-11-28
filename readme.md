@@ -3,6 +3,9 @@
 Welcome to the LabelFix project.
 The goal of this tool is to find mislabeled data instances in image, text and numerical data in order to speed up the manual reviewing process by domain experts.
 
+This work has been published at IJCNN 2019. The article can be found at
+https://ieeexplore.ieee.org/document/8851920
+
 ## Installation
 
 Note: It is advisable to use a virtual environment for installing and running the code.
