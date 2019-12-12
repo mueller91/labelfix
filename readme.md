@@ -5,6 +5,7 @@ The goal of this tool is to find mislabeled data instances in image, text and nu
 
 This work has been published at IJCNN 2019. The article can be found at
 https://ieeexplore.ieee.org/document/8851920
+and at ArXiv.org: https://arxiv.org/pdf/1912.05283.pdf
 
 ## Installation
 
