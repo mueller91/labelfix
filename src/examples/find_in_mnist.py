@@ -2,9 +2,9 @@ from src.utils.visualize import visualize_image
 from src.labelfix import check_dataset, preprocess_x_y_and_shuffle
 import tensorflow as tf
 
-# In this example, we aim to find mislabeled instances in the fashion MNIST training data set
+# In this example, we aim to find mislabeled instances in the MNIST training data set
 if __name__ == "__main__":
-    # First, construct required dictionary using the fashion mnist training data
+    # First, construct required dictionary using the MNIST training data
     (x_train, y_train), (_, _) = tf.keras.datasets.mnist.load_data()
 
     # check the data set

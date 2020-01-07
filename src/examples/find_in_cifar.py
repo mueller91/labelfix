@@ -5,9 +5,9 @@ from keras.datasets import cifar100
 from src.utils.visualize import visualize_image
 from src.labelfix import check_dataset, preprocess_x_y_and_shuffle
 
-# In this example, we aim to find mislabeled instances in the fashion MNIST training data set
+# In this example, we aim to find mislabeled instances in the CIFAR-100 training data set
 if __name__ == "__main__":
-    # First, construct required dictionary using the fashion mnist training data
+    # First, construct required dictionary using the CIFAR-100 training data
     (x_train, y_train), (_, _) = cifar100.load_data(label_mode='fine')
 
     x_train, y_train = preprocess_x_y_and_shuffle(x_train, y_train)
